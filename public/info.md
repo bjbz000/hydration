@@ -177,10 +177,6 @@ export default function ServerComponent() {
 
 - Move as much logic as possible to the server.
 
-### 4. Use Edge Functions & Streaming for Faster Hydration
-
-- Edge rendering reduces the load on the browser, making hydration faster.
-
 ## __6. Common Questions__
 
 ### 1. What happens if hydration fails?
